@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color: grey;
 }
 
 .heading{
@@ -15,4 +16,21 @@ background-position: bottom;
 .heading-text{
   padding: 20px 0 0 20px;
   color: grey;
+}
+
+main{
+  width: 840px;
+  margin: 50px auto;
+
+}
+
+
+.blog-item{
+  border-bottom: 1px solid grey;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+.blog-text{
+  font-size: 13px;
 }
